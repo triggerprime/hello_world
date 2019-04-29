@@ -1,2 +1,3 @@
 # hello_world
-Another repository
+
+Hello My Name is Henry Ross and I am a Senior in Silver Creek High School.
